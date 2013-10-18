@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B4BE5CEE-F760-4A53-88C0-26084B30EB91}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Layer03_Desktop</RootNamespace>
+    <AssemblyName>Layer03_Desktop</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Layer03_Desktop.Main.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.C1TrueDBGrid.4, Version=4.0.20122.61260, Culture=neutral, PublicKeyToken=75ae3fb0e2b1e0da, processorArchitecture=MSIL" />
+    <Reference Include="DataObjects_Framework">
+      <HintPath>..\Dlls\DataObjects_Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\FrmBaseDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\FrmBaseDetail.Designer.cs">
+      <DependentUpon>FrmBaseDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\FrmBaseDetails_Module.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\FrmBaseDetails_Module.Designer.cs">
+      <DependentUpon>FrmBaseDetails_Module.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\FrmBaseList_Copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\FrmBaseList_Copy.Designer.cs">
+      <DependentUpon>FrmBaseList_Copy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\FrmBaseList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\FrmBaseList.Designer.cs">
+      <DependentUpon>FrmBaseList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\FrmValidationMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\FrmValidationMessage.Designer.cs">
+      <DependentUpon>FrmValidationMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmDamit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmDamit.Designer.cs">
+      <DependentUpon>FrmDamit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmDamit_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmDamit_Details.Designer.cs">
+      <DependentUpon>FrmDamit_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmLookup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmLookup.Designer.cs">
+      <DependentUpon>FrmLookup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmLookup_Ex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmLookup_Ex.Designer.cs">
+      <DependentUpon>FrmLookup_Ex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmMain_Mayari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmMain_Mayari.Designer.cs">
+      <DependentUpon>FrmMain_Mayari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmMain_Mayari_Bago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmMain_Mayari_Bago.Designer.cs">
+      <DependentUpon>FrmMain_Mayari_Bago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmMayari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmMayari.Designer.cs">
+      <DependentUpon>FrmMayari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmMayari_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmMayari_Details.Designer.cs">
+      <DependentUpon>FrmMayari_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmPinalaba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmPinalaba.Designer.cs">
+      <DependentUpon>FrmPinalaba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\FrmPinalaba_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\FrmPinalaba_Details.Designer.cs">
+      <DependentUpon>FrmPinalaba_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="System\EventHandlerDelayer.cs" />
+    <Compile Include="System\Layer03_Common.cs" />
+    <Compile Include="System\Layer03_Styles.cs" />
+    <Compile Include="System\Layer03_Styles_Sample0001.cs" />
+    <Compile Include="Test\Test_Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\Test_Form1.Designer.cs">
+      <DependentUpon>Test_Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\Test_Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\Test_Form2.Designer.cs">
+      <DependentUpon>Test_Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\Test_Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\Test_Form3.Designer.cs">
+      <DependentUpon>Test_Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FrmFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControls\FrmFilter.Designer.cs">
+      <DependentUpon>FrmFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FrmSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControls\FrmSelection.Designer.cs">
+      <DependentUpon>FrmSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Interface_FilterTarget.cs" />
+    <Compile Include="UserControls\Interface_Style.cs" />
+    <Compile Include="UserControls\StyleBase.cs" />
+    <Compile Include="UserControls\UcButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcCombobox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcFilter.Designer.cs">
+      <DependentUpon>UcFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UcGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcGrid.Designer.cs">
+      <DependentUpon>UcGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UcLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcToolStripDetailItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UcToolStripDetailItem.Designer.cs">
+      <DependentUpon>UcToolStripDetailItem.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Base\FrmBaseDetail.resx">
+      <DependentUpon>FrmBaseDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\FrmBaseDetails_Module.resx">
+      <DependentUpon>FrmBaseDetails_Module.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\FrmBaseList_Copy.resx">
+      <DependentUpon>FrmBaseList_Copy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\FrmBaseList.resx">
+      <DependentUpon>FrmBaseList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\FrmValidationMessage.resx">
+      <DependentUpon>FrmValidationMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmDamit.resx">
+      <DependentUpon>FrmDamit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmDamit_Details.resx">
+      <DependentUpon>FrmDamit_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmLookup.resx">
+      <DependentUpon>FrmLookup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmLookup_Ex.resx">
+      <DependentUpon>FrmLookup_Ex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmMain_Mayari.resx">
+      <DependentUpon>FrmMain_Mayari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmMain_Mayari_Bago.resx">
+      <DependentUpon>FrmMain_Mayari_Bago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmMayari.resx">
+      <DependentUpon>FrmMayari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmMayari_Details.resx">
+      <DependentUpon>FrmMayari_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmPinalaba.resx">
+      <DependentUpon>FrmPinalaba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\FrmPinalaba_Details.resx">
+      <DependentUpon>FrmPinalaba_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Test\Test_Form1.resx">
+      <DependentUpon>Test_Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\Test_Form2.resx">
+      <DependentUpon>Test_Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\FrmFilter.resx">
+      <DependentUpon>FrmFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\FrmSelection.resx">
+      <DependentUpon>FrmSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UcFilter.resx">
+      <DependentUpon>UcFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UcGrid.resx">
+      <DependentUpon>UcGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UcToolStripDetailItem.resx">
+      <DependentUpon>UcToolStripDetailItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Layer01_Common\Layer01_Common.csproj">
+      <Project>{EACB7FD7-7268-41B7-BC01-1BB420E59375}</Project>
+      <Name>Layer01_Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Layer01_Common_C1\Layer01_Common_C1.csproj">
+      <Project>{DA49E330-C241-4A72-8D41-95D5F76F2363}</Project>
+      <Name>Layer01_Common_C1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Layer02_Objects\Layer02_Objects.csproj">
+      <Project>{78E6AFA7-59DA-470F-B206-E1B458B1A369}</Project>
+      <Name>Layer02_Objects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

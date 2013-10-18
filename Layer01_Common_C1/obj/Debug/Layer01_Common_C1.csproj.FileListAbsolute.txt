@@ -1,0 +1,27 @@
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\Layer01_Common_C1.dll
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\Layer01_Common_C1.pdb
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\DataObjects_Framework.dll
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\Layer01_Common.dll
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\Newtonsoft.Json.dll
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\Layer01_Common.pdb
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\DataObjects_Framework.pdb
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\DataObjects_Framework.xml
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\bin\Debug\Newtonsoft.Json.xml
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\obj\Debug\Layer01_Common_C1.dll
+D:\ex\Ex Projects\DamitApp\Layer01_Common_C1\obj\Debug\Layer01_Common_C1.pdb
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\bin\Debug\Layer01_Common_C1.dll
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\bin\Debug\Layer01_Common_C1.pdb
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\bin\Debug\DataObjects_Framework.dll
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\bin\Debug\Layer01_Common.dll
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\bin\Debug\Newtonsoft.Json.dll
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\bin\Debug\Layer01_Common.pdb
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\bin\Debug\DataObjects_Framework.pdb
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\bin\Debug\DataObjects_Framework.xml
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\bin\Debug\Newtonsoft.Json.xml
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\obj\Debug\ResolveAssemblyReference.cache
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\obj\Debug\Layer01_Common_C1.dll
+C:\Kolin\Projects\DamitApp\Layer01_Common_C1\obj\Debug\Layer01_Common_C1.pdb
+D:\Ex\Ex Projects\DamitApp\Layer01_Common_C1\obj\Debug\Layer01_Common_C1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,113 @@
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMain_Mayari.resources
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Properties.Resources.resources
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.exe
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.pdb
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.exe
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.pdb
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.UcBase.resources
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.UcLabel_Ex.resources
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.UcLabel.resources
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.exe
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.pdb
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMain_Mayari.resources
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Properties.Resources.resources
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.exe
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.pdb
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\bin\Debug\DataObjects_Framework.dll
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\bin\Debug\Layer01_Common.dll
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\bin\Debug\Layer02_Objects.dll
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\bin\Debug\Layer01_Common.pdb
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\bin\Debug\Layer02_Objects.pdb
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\bin\Debug\DataObjects_Framework.xml
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMain_Mayari_Bago.resources
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.exe.config
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.exe.config
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.exe
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.pdb
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\DataObjects_Framework.dll
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer01_Common.dll
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer01_Common_C1.dll
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer02_Objects.dll
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Newtonsoft.Json.dll
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer01_Common.pdb
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer01_Common_C1.pdb
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer02_Objects.pdb
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\DataObjects_Framework.pdb
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\DataObjects_Framework.xml
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\bin\Debug\Newtonsoft.Json.xml
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Base.FrmBaseList_Copy.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Base.FrmBaseList.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMain.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMain_Mayari.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMain_Mayari_Bago.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Properties.Resources.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Test.Test_Form1.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Test.Test_Form2.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.FrmFilter.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.UcFilter.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.UcGrid.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.exe.licenses
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.exe
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.pdb
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Base.FrmBaseDetail.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmLookup_Ex.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmLookup.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Base.FrmValidationMessage.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmDamit.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmDamit_Details.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Base.FrmBaseDetails_Module.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.exe.config
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.exe
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.pdb
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.exe
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer03_Desktop.pdb
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\DataObjects_Framework.dll
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer01_Common.dll
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer01_Common_C1.dll
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer02_Objects.dll
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Newtonsoft.Json.dll
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer01_Common.pdb
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer01_Common_C1.pdb
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Layer02_Objects.pdb
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\DataObjects_Framework.pdb
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\DataObjects_Framework.xml
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\bin\Debug\Newtonsoft.Json.xml
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Base.FrmBaseDetail.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Base.FrmBaseDetails_Module.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Base.FrmBaseList_Copy.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Base.FrmBaseList.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Base.FrmValidationMessage.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmDamit.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmDamit_Details.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmLookup.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmLookup_Ex.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMain.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMain_Mayari.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMain_Mayari_Bago.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Properties.Resources.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Test.Test_Form1.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Test.Test_Form2.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.FrmFilter.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.UcFilter.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.UcGrid.resources
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kolin\Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.exe.licenses
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMayari.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmMayari_Details.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmPinalaba.resources
+D:\ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.Main.FrmPinalaba_Details.resources
+D:\Ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.csprojResolveAssemblyReference.cache
+D:\Ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.csproj.GenerateResource.Cache
+D:\Ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.FrmSelection.resources
+D:\Ex\Ex Projects\DamitApp\Layer03_Desktop\obj\x86\Debug\Layer03_Desktop.UserControls.UcToolStripDetailItem.resources

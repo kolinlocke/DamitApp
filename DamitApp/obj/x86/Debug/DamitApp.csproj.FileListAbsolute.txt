@@ -1,0 +1,31 @@
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\DamitApp\bin\Debug\DamitApp.exe
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\DamitApp\bin\Debug\DamitApp.pdb
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\DamitApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.Properties.Resources.resources
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\DamitApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\DamitApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.exe
+C:\Users\Janer Dy\Documents\Visual Studio 2010\Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.pdb
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\DamitApp\obj\x86\Debug\DamitApp.exe
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\DamitApp\obj\x86\Debug\DamitApp.pdb
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\DamitApp\bin\Debug\DamitApp.exe
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\DamitApp\bin\Debug\DamitApp.pdb
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\DamitApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\DamitApp\obj\x86\Debug\DamitApp.Properties.Resources.resources
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\DamitApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Janer Dy\Documents\GitHub\DamitApp\DamitApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ex\Ex Projects\DamitApp\DamitApp\bin\Debug\DamitApp.exe
+D:\ex\Ex Projects\DamitApp\DamitApp\bin\Debug\DamitApp.pdb
+D:\ex\Ex Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.Properties.Resources.resources
+D:\ex\Ex Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.exe
+D:\ex\Ex Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.pdb
+C:\Kolin\Projects\DamitApp\DamitApp\bin\Debug\DamitApp.exe
+C:\Kolin\Projects\DamitApp\DamitApp\bin\Debug\DamitApp.pdb
+C:\Kolin\Projects\DamitApp\DamitApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kolin\Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.Properties.Resources.resources
+C:\Kolin\Projects\DamitApp\DamitApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kolin\Projects\DamitApp\DamitApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kolin\Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.exe
+C:\Kolin\Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.pdb
+D:\Ex\Ex Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.csproj.GenerateResource.Cache
+D:\Ex\Ex Projects\DamitApp\DamitApp\obj\x86\Debug\DamitApp.csprojResolveAssemblyReference.cache
